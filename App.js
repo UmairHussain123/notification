@@ -80,7 +80,7 @@ async function sendPushNotification(expoPushToken) {
     body: "And here is the body!",
     data: { someData: "goes here" },
   };
-
+  console.log(JSON.stringify(message));
   await fetch("https://exp.host/--/api/v2/push/send", {
     method: "POST",
     headers: {
@@ -89,7 +89,11 @@ async function sendPushNotification(expoPushToken) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify(message),
-  });
+  })
+    .then((response) => response.text())
+    .then((result) => {
+      console.log(JSON.parse(result));
+    });
 }
 
 async function registerForPushNotificationsAsync() {

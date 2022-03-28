@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1917962355",
+    "project_id": "my-first-project-android-1bba5",
+    "storage_bucket": "my-first-project-android-1bba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1917962355:android:8cc5a47fa1fe6a925a8206",
+        "android_client_info": {
+          "package_name": "com.umairhussain.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1917962355-qlq2d9o3fat52gbbepcglh723a6espie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBOLZiGUKviCMWMcHKOLs8IwCS6hAG0k"
+          
+    
+          
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1917962355-qlq2d9o3fat52gbbepcglh723a6espie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
