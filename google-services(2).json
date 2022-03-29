@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "746844114158",
-    "project_id": "intense-agency-330611",
-    "storage_bucket": "intense-agency-330611.appspot.com"
+    "project_number": "420313426763",
+    "project_id": "notification-9c4db",
+    "storage_bucket": "notification-9c4db.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:746844114158:android:b8d3ae289c0a98611037ff",
+        "mobilesdk_app_id": "1:420313426763:android:d715ba33a2ec1390a916ce",
         "android_client_info": {
           "package_name": "com.umairhussain.notification"
         }
       },
       "oauth_client": [
         {
-          "client_id": "746844114158-5tj2do6mm4efet3srmhas2703e8rhvqm.apps.googleusercontent.com",
+          "client_id": "420313426763-4vh9h4s6q9ts9ou8gcf56r5bae47tjpi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBtB-Yz_iUTLoOP2mZ3AFLPV2wHyVJgvW8"
-          
+          "current_key": "AIzaSyA7onhxlC2Pokf46PVPm-7gPj5KX6gdkH4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "746844114158-5tj2do6mm4efet3srmhas2703e8rhvqm.apps.googleusercontent.com",
+              "client_id": "420313426763-4vh9h4s6q9ts9ou8gcf56r5bae47tjpi.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
